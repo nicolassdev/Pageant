@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{227644C9-FF43-4D0E-96A9-191D5B77746D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Mr_And_Mrs_Intrams_Tabular_System.My.MyApplication</StartupObject>
+    <RootNamespace>Mr_And_Mrs_Intrams_Tabular_System</RootNamespace>
+    <AssemblyName>Mr And Mrs Intrams Tabular System</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Mr And Mrs Intrams Tabular System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Mr And Mrs Intrams Tabular System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="dbConnection.vb" />
+    <Compile Include="frmAdmin.Designer.vb">
+      <DependentUpon>frmAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdminlogin.Designer.vb">
+      <DependentUpon>frmAdminlogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdminlogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCandidate.Designer.vb">
+      <DependentUpon>frmCandidate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCandidate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCanRegister.Designer.vb">
+      <DependentUpon>frmCanRegister.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCanRegister.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHome.Designer.vb">
+      <DependentUpon>frmHome.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmJudge.Designer.vb">
+      <DependentUpon>frmJudge.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmJudge.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmJudgeBoard.Designer.vb">
+      <DependentUpon>frmJudgeBoard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmJudgeBoard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMajorRank.Designer.vb">
+      <DependentUpon>frmMajorRank.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMajorRank.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMinorRank.Designer.vb">
+      <DependentUpon>frmMinorRank.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMinorRank.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRanking.Designer.vb">
+      <DependentUpon>frmRanking.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRanking.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTalentRank.Designer.vb">
+      <DependentUpon>frmTalentRank.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTalentRank.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmAdmin.resx">
+      <DependentUpon>frmAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdminlogin.resx">
+      <DependentUpon>frmAdminlogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCandidate.resx">
+      <DependentUpon>frmCandidate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCanRegister.resx">
+      <DependentUpon>frmCanRegister.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHome.resx">
+      <DependentUpon>frmHome.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmJudge.resx">
+      <DependentUpon>frmJudge.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmJudgeBoard.resx">
+      <DependentUpon>frmJudgeBoard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMajorRank.resx">
+      <DependentUpon>frmMajorRank.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMinorRank.resx">
+      <DependentUpon>frmMinorRank.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRanking.resx">
+      <DependentUpon>frmRanking.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTalentRank.resx">
+      <DependentUpon>frmTalentRank.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CSI.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoCSI.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-user-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-clear-50 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-clear-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-score-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-talent-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-award-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-trophy-64 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-trophy-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\next.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scoreboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\high-score.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\talent-search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trophy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quality.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\setting %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\register.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hair.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\swimwear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\podium.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loupe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\business-credit-score.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\setting.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-password-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-candidate-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-judge-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-log-out-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-update-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-update-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-clear-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-delete-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-next-button-26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-next-button-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-save-button-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-ranking-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\top-three.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

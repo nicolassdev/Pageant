@@ -1,0 +1,220 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MrAndMrsIntramsTabularSystem
+</name>
+</assembly>
+<members>
+<member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources._12">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources._next">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.back">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.back__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.back_button">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.business_credit_score">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.calm">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.close">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.close__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.CSI">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.edit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.edit__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.hair">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.high_score">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.icons8_award_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.icons8_candidate_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.icons8_clear_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.icons8_clear_50">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.icons8_clear_50__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.icons8_delete_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.icons8_judge_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.icons8_log_out_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.icons8_next_button_26">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.icons8_next_button_30">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.icons8_password_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.icons8_ranking_100">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.icons8_save_button_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.icons8_score_50">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.icons8_talent_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.icons8_trophy_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.icons8_trophy_64__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.icons8_update_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.icons8_update_50">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.icons8_user_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.img">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.LogoCSI">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.logout">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.loupe">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.podium">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.quality">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.register">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.scoreboard">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.setting">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.setting__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.swimwear">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.talent_search">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.top_three">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.trophy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources.user">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Mr_And_Mrs_Intrams_Tabular_System.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

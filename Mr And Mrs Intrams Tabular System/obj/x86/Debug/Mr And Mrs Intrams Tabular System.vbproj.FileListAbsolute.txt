@@ -1,0 +1,49 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\Mr And Mrs Intrams Tabular System\bin\Debug\Mr And Mrs Intrams Tabular System.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Mr And Mrs Intrams Tabular System\bin\Debug\Mr And Mrs Intrams Tabular System.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\Mr And Mrs Intrams Tabular System\bin\Debug\Mr And Mrs Intrams Tabular System.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr_And_Mrs_Intrams_Tabular_System.frmHome.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr_And_Mrs_Intrams_Tabular_System.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr And Mrs Intrams Tabular System.vbproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr And Mrs Intrams Tabular System.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr And Mrs Intrams Tabular System.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr And Mrs Intrams Tabular System.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr_And_Mrs_Intrams_Tabular_System.frmCanRegister.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr_And_Mrs_Intrams_Tabular_System.frmJudgeBoard.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Project\Mr And Mrs Intrams Tabular System\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr And Mrs Intrams Tabular System.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Project\Mr And Mrs Intrams Tabular System\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr And Mrs Intrams Tabular System.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Project\Mr And Mrs Intrams Tabular System\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr And Mrs Intrams Tabular System.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Project\Mr And Mrs Intrams Tabular System\Mr And Mrs Intrams Tabular System\bin\Debug\Mr And Mrs Intrams Tabular System.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Project\Mr And Mrs Intrams Tabular System\Mr And Mrs Intrams Tabular System\bin\Debug\Mr And Mrs Intrams Tabular System.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Project\Mr And Mrs Intrams Tabular System\Mr And Mrs Intrams Tabular System\bin\Debug\Mr And Mrs Intrams Tabular System.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Project\Mr And Mrs Intrams Tabular System\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr_And_Mrs_Intrams_Tabular_System.frmCanRegister.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Project\Mr And Mrs Intrams Tabular System\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr_And_Mrs_Intrams_Tabular_System.frmHome.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Project\Mr And Mrs Intrams Tabular System\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr_And_Mrs_Intrams_Tabular_System.frmJudgeBoard.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Project\Mr And Mrs Intrams Tabular System\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr_And_Mrs_Intrams_Tabular_System.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Project\Mr And Mrs Intrams Tabular System\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr And Mrs Intrams Tabular System.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2010\Project\Mr And Mrs Intrams Tabular System\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr_And_Mrs_Intrams_Tabular_System.frmAdminlogin.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Project\Mr And Mrs Intrams Tabular System\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr_And_Mrs_Intrams_Tabular_System.frmAdmin.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Project\Mr And Mrs Intrams Tabular System\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr_And_Mrs_Intrams_Tabular_System.frmCandidate.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Project\Mr And Mrs Intrams Tabular System\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr_And_Mrs_Intrams_Tabular_System.frmJudge.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Project\Mr And Mrs Intrams Tabular System\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr_And_Mrs_Intrams_Tabular_System.frmRanking.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Project\Mr And Mrs Intrams Tabular System\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr_And_Mrs_Intrams_Tabular_System.frmMajorRank.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Project\Mr And Mrs Intrams Tabular System\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr_And_Mrs_Intrams_Tabular_System.frmMinorRank.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Project\Mr And Mrs Intrams Tabular System\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr_And_Mrs_Intrams_Tabular_System.frmTalentRank.resources
+D:\Github Files\Tabulation\Mr And Mrs Intrams Tabular System\bin\Debug\Mr And Mrs Intrams Tabular System.exe
+D:\Github Files\Tabulation\Mr And Mrs Intrams Tabular System\bin\Debug\Mr And Mrs Intrams Tabular System.pdb
+D:\Github Files\Tabulation\Mr And Mrs Intrams Tabular System\bin\Debug\Mr And Mrs Intrams Tabular System.xml
+D:\Github Files\Tabulation\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr_And_Mrs_Intrams_Tabular_System.frmAdmin.resources
+D:\Github Files\Tabulation\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr_And_Mrs_Intrams_Tabular_System.frmAdminlogin.resources
+D:\Github Files\Tabulation\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr_And_Mrs_Intrams_Tabular_System.frmCandidate.resources
+D:\Github Files\Tabulation\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr_And_Mrs_Intrams_Tabular_System.frmCanRegister.resources
+D:\Github Files\Tabulation\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr_And_Mrs_Intrams_Tabular_System.frmHome.resources
+D:\Github Files\Tabulation\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr_And_Mrs_Intrams_Tabular_System.frmJudge.resources
+D:\Github Files\Tabulation\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr_And_Mrs_Intrams_Tabular_System.frmJudgeBoard.resources
+D:\Github Files\Tabulation\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr_And_Mrs_Intrams_Tabular_System.frmMajorRank.resources
+D:\Github Files\Tabulation\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr_And_Mrs_Intrams_Tabular_System.frmMinorRank.resources
+D:\Github Files\Tabulation\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr_And_Mrs_Intrams_Tabular_System.frmRanking.resources
+D:\Github Files\Tabulation\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr_And_Mrs_Intrams_Tabular_System.frmTalentRank.resources
+D:\Github Files\Tabulation\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr_And_Mrs_Intrams_Tabular_System.Resources.resources
+D:\Github Files\Tabulation\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr And Mrs Intrams Tabular System.vbproj.GenerateResource.Cache
+D:\Github Files\Tabulation\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr And Mrs Intrams Tabular System.exe
+D:\Github Files\Tabulation\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr And Mrs Intrams Tabular System.xml
+D:\Github Files\Tabulation\Mr And Mrs Intrams Tabular System\obj\x86\Debug\Mr And Mrs Intrams Tabular System.pdb
